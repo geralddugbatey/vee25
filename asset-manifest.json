@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vee25/static/css/main.67fe97b1.css",
+    "main.js": "/vee25/static/js/main.86bcb620.js",
+    "static/js/787.5c6ccb91.chunk.js": "/vee25/static/js/787.5c6ccb91.chunk.js",
+    "index.html": "/vee25/index.html",
+    "main.67fe97b1.css.map": "/vee25/static/css/main.67fe97b1.css.map",
+    "main.86bcb620.js.map": "/vee25/static/js/main.86bcb620.js.map",
+    "787.5c6ccb91.chunk.js.map": "/vee25/static/js/787.5c6ccb91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67fe97b1.css",
+    "static/js/main.86bcb620.js"
+  ]
+}
